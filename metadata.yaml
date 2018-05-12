@@ -1,0 +1,29 @@
+_repo: Philosophy-and-The-Social-Problem_42880
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42880-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Durant, Will
+    alias: Durant, William James
+    birthdate: 1885
+    deathdate: 1981
+    gutenberg_agent_id: '41907'
+    url: http://www.gutenberg.org/2009/agents/41907
+description: ''
+gutenberg_issued: '2013-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42880'
+  lccn: '17030598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy'
+- !lcc 'B'
+- !lcsh 'Social problems'
+title: Philosophy and the Social Problem
+url: http://www.gutenberg.org/ebooks/42880
